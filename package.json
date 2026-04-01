@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/spob-prototype",
+  "homepage": "https://Adedhayor.github.io/spob-prototype",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
