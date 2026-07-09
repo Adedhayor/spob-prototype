@@ -7,7 +7,7 @@
 
 ## 🔗 Live Demo
 
-**[View Prototype →](https://YOUR_GITHUB_USERNAME.github.io/spob-prototype)**
+**[View Prototype →](https://Adedhayor.github.io/spob-prototype)**
 
 ---
 
@@ -54,7 +54,7 @@ spob-prototype/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_GITHUB_USERNAME/spob-prototype.git
+git clone https://github.com/Adedhayor/spob-prototype.git
 cd spob-prototype
 
 # 2. Install dependencies
@@ -75,7 +75,7 @@ Open http://localhost:5173 in your browser.
 1. Create the repo on GitHub (public)
 2. Update the `homepage` field in `package.json`:
    ```json
-   "homepage": "https://YOUR_GITHUB_USERNAME.github.io/spob-prototype"
+   "homepage": "https://Adedhayor.github.io/spob-prototype"
    ```
 3. Run:
    ```bash
